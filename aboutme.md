@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: This page has not been updated from the template yet
 ---
 
 My name is Inigo Montoya. I have the following qualities:
